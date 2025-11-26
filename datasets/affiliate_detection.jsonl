@@ -1,0 +1,10 @@
+{"id": 1, "text": "Shop this look via my LTK! Link in bio", "expected": {"has_affiliate": true, "platform": "LTK", "indicators": ["LTK", "link in bio"]}, "category": "affiliate_detection"}
+{"id": 2, "text": "Use code FASHION15 for 15% off your order!", "expected": {"has_affiliate": true, "type": "discount_code", "code": "FASHION15", "discount": "15%"}, "category": "affiliate_detection"}
+{"id": 3, "text": "Wearing this amazing vintage jacket I found at a local thrift store", "expected": {"has_affiliate": false, "type": "organic"}, "category": "affiliate_detection"}
+{"id": 4, "text": "Swipe up to shop! #ad #gifted", "expected": {"has_affiliate": true, "type": "sponsored", "disclosures": ["#ad", "#gifted"]}, "category": "affiliate_detection"}
+{"id": 5, "text": "Thanks to @fashionbrand for partnering with me on this post! Use my exclusive code STYLE20", "expected": {"has_affiliate": true, "type": "brand_partnership", "code": "STYLE20", "disclosures": ["partnering"]}, "category": "affiliate_detection"}
+{"id": 6, "text": "Just sharing my favorite outfit combo! No links, just inspiration", "expected": {"has_affiliate": false, "type": "organic"}, "category": "affiliate_detection"}
+{"id": 7, "text": "Find all product links in my Amazon storefront! #amazonfinds #amazonfashion", "expected": {"has_affiliate": true, "platform": "Amazon", "type": "affiliate_storefront"}, "category": "affiliate_detection"}
+{"id": 8, "text": "This is a paid partnership with BrandX. Shop the collection at brandx.com/collection", "expected": {"has_affiliate": true, "type": "paid_partnership", "brand": "BrandX", "disclosures": ["paid partnership"]}, "category": "affiliate_detection"}
+{"id": 9, "text": "Obsessed with this dress! Got it on sale last week", "expected": {"has_affiliate": false, "type": "organic"}, "category": "affiliate_detection"}
+{"id": 10, "text": "Tap to shop via @shop.ltk or use my code at checkout for 10% off", "expected": {"has_affiliate": true, "platform": "LTK", "type": "affiliate_code", "discount": "10%"}, "category": "affiliate_detection"}

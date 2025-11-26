@@ -1,0 +1,10 @@
+{"id": 1, "description": "Tailored black blazer, white button-down shirt, high-waisted trousers, pointed-toe heels, structured leather tote", "expected": "Corporate/Professional", "category": "style_classification"}
+{"id": 2, "description": "Oversized band t-shirt, distressed black jeans, leather jacket, combat boots, silver chain accessories", "expected": "Grunge/Rock", "category": "style_classification"}
+{"id": 3, "description": "Flowy floral maxi dress, woven basket bag, leather sandals, delicate gold jewelry, natural makeup", "expected": "Bohemian/Boho", "category": "style_classification"}
+{"id": 4, "description": "Cropped hoodie, high-waisted joggers, chunky sneakers, crossbody bag, minimal jewelry", "expected": "Athleisure/Sporty", "category": "style_classification"}
+{"id": 5, "description": "Cashmere sweater, tailored wool trousers, designer loafers, structured handbag, subtle gold watch", "expected": "Quiet Luxury/Minimalist", "category": "style_classification"}
+{"id": 6, "description": "Vintage band tee, baggy jeans, Nike Dunks, baseball cap, oversized puffer jacket", "expected": "Streetwear/Urban", "category": "style_classification"}
+{"id": 7, "description": "Pastel pink cardigan, pleated midi skirt, Mary Jane flats, pearl accessories, ribbon details", "expected": "Coquette/Feminine", "category": "style_classification"}
+{"id": 8, "description": "Graphic hoodie, cargo pants, high-top sneakers, bucket hat, multiple layered chains", "expected": "Hypebeast/Streetwear", "category": "style_classification"}
+{"id": 9, "description": "Linen button-up, wide-leg linen pants, espadrilles, straw hat, minimal jewelry", "expected": "Coastal/Resort", "category": "style_classification"}
+{"id": 10, "description": "Tweed jacket, pearl necklace, A-line skirt, kitten heels, structured top-handle bag", "expected": "Classic/Timeless", "category": "style_classification"}
